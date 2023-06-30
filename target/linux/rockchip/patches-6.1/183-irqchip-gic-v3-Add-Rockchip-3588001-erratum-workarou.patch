@@ -46,7 +46,7 @@ Signed-off-by: Marty Jones <mj8263788@gmail.com>
  | Fujitsu        | A64FX           | E#010001        | FUJITSU_ERRATUM_010001      |
 --- a/arch/arm64/Kconfig
 +++ b/arch/arm64/Kconfig
-@@ -1123,6 +1123,16 @@ config NVIDIA_CARMEL_CNP_ERRATUM
+@@ -1124,6 +1124,16 @@ config NVIDIA_CARMEL_CNP_ERRATUM
  
  	  If unsure, say Y.
  
